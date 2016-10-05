@@ -2,7 +2,7 @@
 import socket,time,_thread as thread,ssl
 import json
 import base64
-from Networks.Security_connections.Client import Client
+from Client import Client
 HOST='0.0.0.0'
 PORT=1200
 

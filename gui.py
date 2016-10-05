@@ -1,5 +1,5 @@
 import socket
-from Networks.Security_connections.Client import Client
+from Client import Client
 from Crypto.Cipher import PKCS1_OAEP
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import AES
